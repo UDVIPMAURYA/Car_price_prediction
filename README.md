@@ -117,7 +117,7 @@ If you find a bug or want to improve this project, feel free to fork and open a 
 **Udvip Maurya**  
 🎓 Diploma Student in Computer Science & Engineering  
 💡 Passionate about Machine Learning & AI  
-📧 Contact: udvipemail@example.com  
+📧 Contact: udvipmaurya@gmail.com  
 
 ---
 
