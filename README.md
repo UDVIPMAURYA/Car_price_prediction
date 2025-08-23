@@ -45,7 +45,7 @@ A **Machine Learning Web Application** built with **Streamlit** that predicts ca
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-price-prediction-app.git
+   git clone https://github.com/UDVIPMAURYA/car-price-prediction-app.git
    cd car-price-prediction-app
    ```
 
@@ -100,7 +100,7 @@ You can deploy this app easily on **Streamlit Cloud**:
 
 The app will be live at:
 ```
-https://your-username-car-price-prediction.streamlit.app
+https://udvipmaurya-car-price-prediction.streamlit.app
 ```
 
 ---
